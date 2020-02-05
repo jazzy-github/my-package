@@ -1,0 +1,12 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/runner/runners/2.164.0/work/my-package/my-package/Sources/jazzy-github/jazzy_github.swift",
+      "line": 3,
+      "symbol": "JazzyGitHub.text",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/runner/runners/2.164.0/work/my-package/my-package"
+}
